@@ -755,11 +755,11 @@ Banner Style
 .main-banner .right-image span.offer {
   position: absolute;
   top: 12px;
-  left: 0px;
+  left: 10px;
   background-color: #ff3a3a;
   color: gold;
   font-size: 18px;
-  width: 60px;
+  width: 80px;
   height: 40px;
   line-height: 30px;
   text-align: center;
